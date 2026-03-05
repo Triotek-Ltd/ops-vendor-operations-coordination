@@ -1,0 +1,52 @@
+[
+  {
+    "module_code": "ops8_2",
+    "module_label": "OPS 8.2 - Contract Registration - Logs agreement terms; consists of contract metadata.",
+    "module_title": "Contract Registration - Logs agreement terms; consists of contract metadata.",
+    "module_slug": "contract_registration_logs_agreement_terms_consists_of_contract_metadata",
+    "app_code": "ops8",
+    "app_label": "OPS 8 - Vendor Operations Coordination",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops8_3",
+    "module_label": "OPS 8.3 - SLA Monitoring - Tracks service performance; consists of KPI comparison entries.",
+    "module_title": "SLA Monitoring - Tracks service performance; consists of KPI comparison entries.",
+    "module_slug": "sla_monitoring_tracks_service_performance_consists_of_kpi_comparison_entries",
+    "app_code": "ops8",
+    "app_label": "OPS 8 - Vendor Operations Coordination",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops8_5",
+    "module_label": "OPS 8.5 - Vendor Issue Management - Logs disputes; consists of corrective action tracking.",
+    "module_title": "Vendor Issue Management - Logs disputes; consists of corrective action tracking.",
+    "module_slug": "vendor_issue_management_logs_disputes_consists_of_corrective_action_tracking",
+    "app_code": "ops8",
+    "app_label": "OPS 8 - Vendor Operations Coordination",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops8_1",
+    "module_label": "OPS 8.1 - Vendor Onboarding - Registers vendor; consists of compliance and documentation records.",
+    "module_title": "Vendor Onboarding - Registers vendor; consists of compliance and documentation records.",
+    "module_slug": "vendor_onboarding_registers_vendor_consists_of_compliance_and_documentation_records",
+    "app_code": "ops8",
+    "app_label": "OPS 8 - Vendor Operations Coordination",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops8_4",
+    "module_label": "OPS 8.4 - Vendor Performance Evaluation - Scores vendor; consists of evaluation records.",
+    "module_title": "Vendor Performance Evaluation - Scores vendor; consists of evaluation records.",
+    "module_slug": "vendor_performance_evaluation_scores_vendor_consists_of_evaluation_records",
+    "app_code": "ops8",
+    "app_label": "OPS 8 - Vendor Operations Coordination",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  }
+]
